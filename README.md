@@ -65,5 +65,5 @@ git clone https://github.com/ton_github/revision_rncp_data.git
 
 ## 📢 **Contact & Questions**
 
-Si tu as des questions ou des suggestions d’améliorations, n’hésite pas à **ouvrir une issue** sur GitHub ou me contacter directement. Bonne révision et réussite ! 🚀🎯
+Si tu as des questions ou des suggestions d’améliorations, dit le moi c'est avec plaisir 
 
